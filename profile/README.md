@@ -1,5 +1,5 @@
 <br>
-<img src="../assets/org-header.png">
+<img src="https://github.com/Sustent-Acao/.github/blob/main/assets/org-header.png?raw=true">
 
 <h3 align="center">
   Sustainability, now.
