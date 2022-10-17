@@ -1,6 +1,9 @@
 <br>
 <img src="https://github.com/Sustent-Acao/.github/blob/main/assets/org-header.png?raw=true">
 
+<h2 align="center">
+  <strong>EQUIPE 05</strong>
+</h2>
 <h3 align="center">
   Sustainability, now.
 </h3>
